@@ -23,12 +23,18 @@ client客户端调用account、menu、order、user这几个微服务。
 2.前端页面使用Thymeleaf+layui框架实现
 
 截图
+
 eureka
+
 ![image](https://user-images.githubusercontent.com/72901123/126287275-be72815d-c885-4fe3-ae0a-edf38621ddba.png)
+
 用户
+
 ![image](https://user-images.githubusercontent.com/72901123/126287304-76bf4422-5bff-4f95-8323-ee96a74e4f5b.png)
 ![image](https://user-images.githubusercontent.com/72901123/126287334-259380ae-b85f-44ef-bcf3-5c19d03a23a0.png)
+
 后台
+
 ![image](https://user-images.githubusercontent.com/72901123/126287377-e27ec902-a6bc-46f1-a2b7-d8ae2f297b42.png)
 ![image](https://user-images.githubusercontent.com/72901123/126287406-382d9bcf-de13-420c-8e14-b0fd1bca37a7.png)
 ![image](https://user-images.githubusercontent.com/72901123/126287478-c87f4577-3a8b-4d84-8f7c-6cdb4447ad7f.png)
